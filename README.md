@@ -43,7 +43,7 @@ I am excited to be working on this project and I believe that it has the potenti
 A demonstration of the identification app was made using streamlit.
 1. Run the main script: python main.py
 
-2 .Enter the text you want to identify the language
+2. Enter the text you want to identify the language
 
 3. The system will display the identified language
 
