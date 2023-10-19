@@ -67,6 +67,6 @@ The system's performance was measured using accuracy, precision, recall, and F1-
 * Improve the model's ability to identify language accurately by using more advanced NLP techniques.
 * Create a more user-friendly web-based interface for the model, so that it can be easily accessed and used with other applications.
 
-<br.
+<br>
 <br>
 ### Note: The code for this project is proprietary and cannot be shared with the public without permission.
