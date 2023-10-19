@@ -35,7 +35,7 @@ I am excited to be working on this project and I believe that it has the potenti
 * Comet
 
 ## Installation
-1. Clone the repository: git clone https://github.com/OnyekaEkesi/South-Africa-language-identification.git
+1. Clone the repository: git clone https://github.com/OnyekaEkesi/South_Africa_language_identification.git
 
 2. pip install the required libraries
 
