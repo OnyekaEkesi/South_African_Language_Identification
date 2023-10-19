@@ -41,11 +41,11 @@ I am excited to be working on this project and I believe that it has the potenti
 
 ## Usage
 A demonstration of the identification app was made using streamlit.
-1.Run the main script: python main.py
+1. Run the main script: python main.py
 
-2.Enter the text you want to identify the language
+2 .Enter the text you want to identify the language
 
-3.The system will display the identified language
+3. The system will display the identified language
 
 ## Data
 The system needs a large and diverse dataset of text and language labels in order to learn how to identify the language of a given text input. The dataset should include a variety of text genres, such as news articles, social media posts, and academic papers. It should also represent the linguistic diversity of South Africa, including all 11 official languages and the many dialects and regional variations.
